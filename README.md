@@ -1,5 +1,5 @@
 # BankServer
-System's server for automating the work of a bank with individuals (Server) :
+Server for automating the work of a bank with individuals (Server) :
 - Сlient-server design architecture;
 - Able to edit information in the database;
 - Able to register new users;
